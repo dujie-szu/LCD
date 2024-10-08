@@ -15,7 +15,7 @@ Four natural image datasets (including *CIFAR10*, *EMNIST-Balanced*, *CIFAR100*,
 ## Run 
 
 
-## Experimental resuts
+## Experimental results
 
 ![result1](result1.png "result1")
 ![result2](result2.png "result2")
