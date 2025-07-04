@@ -12,7 +12,6 @@ This is the implementation of our LCD methd (Logits-with-Correlation-Based Disti
 Four natural image datasets (including *CIFAR10*, *EMNIST-Balanced*, *CIFAR100*, and *ImageNet100*) and four medical image datasets (including *COVID19*, *Medical MNIST*, *HAM10000*, and *PBC*) are used for comparison. 
 
 
-## Run 
 
 
 
